@@ -16,4 +16,17 @@ h1 {
     text-align: center;
     color: #333333;
 }
+
+.form-gruop{
+    margin-bottom: 20px;
+}
+button {
+    background-color: #0011ff;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+}
  
+ button:hover {
+    background-color: #b3a700;
+}
