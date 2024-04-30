@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const email = document.getElementById('email').value;
         const product = document.getElementById('product').value;
         const quantity = document.getElementById('quantity').value;
- 
+        alert('Compra realizada con éxito. Gracias por tu compra!');
         form.reset();
     });
 });
