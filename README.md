@@ -10,11 +10,14 @@ Using as a guide the indications presented in the attached document, we aimed to
 [Documentation](https://cursos.uninorte.edu.co/content/enforced/92067-202410_5469/01%20-%20Taller%20Git.pdf)
 
 
+## Enviroment
 
 
 ## Authors
 
 - [@LocoTafur](https://github.com/LocoTafur)
-- [@octokatherine](https://www.github.com/octokatherine)
-- [@octokatherine](https://www.github.com/octokatherine)
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@Krauyanci](https://github.com/Krauyanci)
+- [@LuisGalviz](https://github.com/LuisGalviz)
+- [@juancervantesuninorte](https://github.com/juancervantesuninorte)
+- [@barriosag](https://github.com/barriosag)
+- [@acordobaj22](https://github.com/acordobaj22)
