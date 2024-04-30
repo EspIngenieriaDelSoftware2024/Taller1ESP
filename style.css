@@ -20,6 +20,17 @@ h1 {
 .form-gruop{
     margin-bottom: 20px;
 }
+
+input[type="text"],
+input[type="email"],
+select,
+button {
+    width: 100%;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #cccccc;
+}
+
 button {
     background-color: #0011ff;
     color: #ffffff;
